@@ -4,7 +4,7 @@
   "title": "Rime Manager",
   "description": "Manage Rime schemas, candidate rules, per-app input modes, deployment, sync, and backups on macOS",
   "icon": "icon.png",
-  "author": "HanryYu",
+  "author": "HenryYu",
   "platforms": [
     "macOS"
   ],
